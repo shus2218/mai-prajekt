@@ -1,0 +1,80 @@
+.header {
+background-color: rgb(217,217,217);
+padding-top: 15px;
+padding-bottom:  15px;
+}
+
+.logo {
+    height: 60px;
+}
+
+.header-row {
+ display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.lInk {
+color:black;
+text-decoration: none;
+}
+
+.link:hover {
+color: #003685;
+}
+
+.naw {
+display: flex;
+gap:20px;
+}
+
+.canteiner {
+max-width: 1200px;
+ margin: 0 auto;
+}
+
+.body {
+margin: 0;
+font-family: "oswald" , sans-serif;
+}
+
+.maen {
+margin-top: 50px;
+}
+
+.mein-rew {
+display: flex;
+align-items: center;
+gap:30px;
+}
+
+.fotka {
+    width:  600px;
+border-radius: 10px;
+
+}
+.bbb {
+background-color: #003685;
+   color: white;
+ padding: 20px;
+             display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
